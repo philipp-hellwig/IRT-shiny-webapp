@@ -1,6 +1,5 @@
 # Item Response Theory (IRT) web-app
-Item Response Theory (IRT) is a paradigm primarily used to design and evaluate test items (e.g., multiple choice tests, questionnaires, etc.).
-This project implements a web-app that visualizes how parameter changes affect the probability density functions of different IRT-models.
+Item Response Theory (IRT) is a paradigm primarily used to design and evaluate test items (e.g., multiple choice tests, questionnaires, etc.). This project implements a web-app that visualizes how parameter changes affect the probability density functions of different IRT-models. The educational goal of this app is to develop a better intuition for the parameters of the models. 
 
 The available models are:
 1. Rasch model
