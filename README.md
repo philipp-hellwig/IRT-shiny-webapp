@@ -7,5 +7,6 @@ The implemented models are:
 2. Two Parameter Logistic model
 3. Three Parameter Logistic model
 
-Example Screenshot:
-![3PL model](resources/threepl.png)
+### Example Usage:
+https://github.com/user-attachments/assets/d84e057c-0df0-437c-81c7-05978bd48d47
+
